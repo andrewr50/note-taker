@@ -10,4 +10,4 @@ Visit the [webpage](https://andrewr50.github.io/note-taker/) and enter your note
 
 ## Credits
 
-[UUID] (https://www.npmjs.com/package/uuid)
+[UUID](https://www.npmjs.com/package/uuid)
